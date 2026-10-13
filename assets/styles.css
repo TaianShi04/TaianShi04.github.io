@@ -15,7 +15,7 @@ a:focus-visible, button:focus-visible { outline: 1px solid currentColor; outline
 img { display: block; max-width: 100%; height: auto; }
 .site-header, .page, .site-footer { width: min(1120px, calc(100% - 96px)); margin-inline: auto; }
 .site-header { display: flex; align-items: baseline; gap: 28px; padding-block: 38px 27px; border-bottom: 1px solid var(--line); }
-.wordmark { font: 26px/1 var(--serif); white-space: nowrap; margin-right: auto; }
+.wordmark { font: 500 22px/1.2 var(--sans); text-transform: uppercase; letter-spacing: .06em; white-space: nowrap; margin-right: auto; }
 .site-nav { display: flex; flex-wrap: wrap; gap: 22px; }
 .site-nav a, .language-toggle { color: var(--muted); font-size: 12px; white-space: nowrap; }
 .site-nav a[aria-current="page"] { color: var(--ink); text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 1px; }
