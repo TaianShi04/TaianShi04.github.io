@@ -1,7 +1,7 @@
 export type Task={id:string,title:string,date:string,category:"apply"|"admin"|"toefl"|"gym",programId?:string,detail?:string};
 export type Program={id:string,school:string,name:string,country:string,degree:string,officialUrl:string,applyUrl:string,applyLabel?:string,requirements:{label:string,text:string,english?:string,englishMode?:string,englishContext?:string,source:string}[],deadlines:{date:string,label:string,source:string}[],notes:string[],sources:{label:string,url:string}[],verifiedAt:string};
 export type State=Record<string,boolean|string|null>;
-export const targets:Record<string,string>={"lse-hro":"2026-12-04","lse-misdi":"2026-12-04","nus-hcma":"2026-11-13","ntu-maies":"2026-12-06","ntu-eai":"2026-11-29","hku-aies":"","hku-ppa":"2026-11-18","cuhk-istm":"2026-11-22","cityu-aib":"2026-11-25","penn-lst":"2026-12-23","cornell-milr":"2026-11-26","jhu-isai":"2026-12-18","uiuc-msim":"2026-11-15","osu-mhrm":"2026-11-28","buffalo-phd":"2026-11-30","rutgers-phd":"2026-11-30","monash-integrated":"2026-12-01"};
+export const targets:Record<string,string>={"lse-hro":"2026-11-20","lse-misdi":"2026-11-20","nus-hcma":"2026-11-13","ntu-maies":"2026-11-24","ntu-eai":"2026-11-29","hku-aies":"2026-12-18","hku-ppa":"2026-11-18","cuhk-istm":"2026-11-22","cityu-aib":"2026-11-25","penn-lst":"2026-11-27","cornell-milr":"2026-11-26","jhu-isai":"2026-11-23","uiuc-msim":"2026-11-15","osu-mhrm":"2026-11-28","buffalo-phd":"2026-11-30","rutgers-phd":"2026-11-30","monash-integrated":"2026-12-01"};
 export const shortNames:Record<string,string>={"lse-hro":"LSE · 人力资源与组织","lse-misdi":"LSE · 信息系统与数字创新","nus-hcma":"NUS · 人力资本管理与分析","ntu-maies":"NTU · AI伦理与社会","ntu-eai":"NTU · 企业AI","hku-aies":"HKU · AI伦理与社会","hku-ppa":"HKU · 人口与政策分析","cuhk-istm":"CUHK · 信息科学与技术管理","cityu-aib":"CityU · 商业人工智能","penn-lst":"UPenn · 学习科学与技术","cornell-milr":"Cornell · 工业与劳动关系","jhu-isai":"JHU · 信息系统与AI","uiuc-msim":"UIUC · 信息管理","osu-mhrm":"Ohio State · 人力资源管理","buffalo-phd":"Buffalo · Management PhD","rutgers-phd":"Rutgers · IRHR PhD","monash-integrated":"Monash · Integrated PhD"};
 export const commonTasks:Task[]=[
  {id:"letters-teachers",title:"修改两位老师的四封推荐信",date:"2026-11-06",category:"admin",detail:"每位老师：PhD版＋Master版，核对事实后供老师审阅。"},
@@ -17,16 +17,16 @@ export const commonTasks:Task[]=[
  {id:"monash-final",title:"Monash全套材料定稿",date:"2026-11-27",category:"apply",programId:"monash-integrated",detail:"包含SOP、RP、CV、补充表格及入口资格确认。"},
  {id:"hk-audit",title:"核查香港三项补件与推荐信状态",date:"2026-11-30",category:"admin"},
  {id:"monash-check",title:"Monash提交前最后检查",date:"2026-11-30",category:"admin",programId:"monash-integrated"},
- {id:"p:hku-aies:essay",title:"港大AI文书定稿，等待托福出分",date:"2026-12-06",category:"apply",programId:"hku-aies",detail:"文书先完成；该项目PS为可选材料。申请账户有4周期限，出分后再创建。"},
- {id:"dec-check",title:"近期网申、视频、推荐信与送分查漏",date:"2026-12-07",category:"admin"},
+ {id:"p:hku-aies:essay",title:"港大AI文书定稿，等待托福出分",date:"2026-11-28",category:"apply",programId:"hku-aies",detail:"文书先完成；该项目PS为可选材料。申请账户有4周期限，出分后再创建。"},
+ {id:"dec-check",title:"11月申请收尾：核查网申、视频、推荐信与送分",date:"2026-11-30",category:"admin"},
  {id:"test-logistics",title:"确认托福证件、考场／设备和出行安排",date:"2026-12-10",category:"toefl"},
  {id:"toefl-exam",title:"参加托福考试",date:"2026-12-12",category:"toefl"}
 ];
 export function chinaToday(now=new Date()){const p=new Intl.DateTimeFormat("en-CA",{timeZone:"Asia/Shanghai",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(now);return `${p.find(x=>x.type==="year")!.value}-${p.find(x=>x.type==="month")!.value}-${p.find(x=>x.type==="day")!.value}`;}
 export function addDays(day:string,n:number){const d=new Date(day+"T12:00:00+08:00");d.setUTCDate(d.getUTCDate()+n);return chinaToday(d);}
 export const monthDay=(s:string)=>s?`${Number(s.slice(5,7))}/${Number(s.slice(8,10))}`:"出分后";
-export function targetDate(id:string,state:State){const custom=state[`date:${id}`];if(typeof custom==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(custom))return custom;if(id==="hku-aies")return typeof state.scoreDate==="string"&&state.scoreDate?addDays(state.scoreDate,1):"";return targets[id]??"";}
-export function milestones(state:State):Task[]{return [...commonTasks,...Object.keys(targets).map(id=>({id:`p:${id}:submitted`,title:`${shortNames[id]} · 提交网申`,date:targetDate(id,state),category:"apply" as const,programId:id}))].sort((a,b)=>(a.date||"9999").localeCompare(b.date||"9999"));}
+export function targetDate(id:string,state:State){const custom=state[`date:${id}`];if(typeof custom==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(custom))return custom;if(id==="hku-aies")return typeof state.scoreDate==="string"&&state.scoreDate?state.scoreDate:targets[id];return targets[id]??"";}
+export function milestones(state:State):Task[]{return [...commonTasks,...Object.keys(targets).map(id=>({id:`p:${id}:submitted`,title:`${shortNames[id]} · ${id==="hku-aies"?"托福出分后提交（预计12/18）":"提交网申"}`,date:targetDate(id,state),category:"apply" as const,programId:id}))].sort((a,b)=>(a.date||"9999").localeCompare(b.date||"9999"));}
 export function dailyTasks(day:string):Task[]{
  const task=(id:string,title:string,category:Task["category"]):Task=>({id:`day:${day}:${id}`,title,date:day,category});
 
