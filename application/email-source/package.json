@@ -1,0 +1,1 @@
+{"name": "apply-email", "version": "1.0.0", "private": true, "type": "module", "dependencies": {"@supabase/supabase-js": "2.119.0", "react": "19.2.6", "react-dom": "19.2.6", "lucide-react": "1.31.0"}, "devDependencies": {"esbuild": "0.27.0"}}
