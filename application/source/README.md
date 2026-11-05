@@ -1,8 +1,8 @@
-# 2027 Application Hub
+# 申请小站
 
 Personal application planner with 17 programme guides, application milestones, a daily routine, and persistent checklists.
 
-- **Site:** https://taian-2027-application-hub.halvedbarracuda.chatgpt.site
+- **Site:** https://apply.halvedbarracuda.chatgpt.site
 - Sign in with the same ChatGPT account on desktop and mobile. The hosted Site is owner-private.
 - Completion state, notes, custom tasks, target dates, and TOEFL score date are stored per user in Cloudflare D1. They are not part of this repository.
 - Browser cache retains unsynced changes; the UI reports pending/offline state. Sync retries on focus, reconnection, and every 15 seconds. Different checklist items merge independently; the last received update wins for the same item.

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Taian · 2027申请计划",
+  title: "申请小站",
   description: "申请时间线、每日安排、项目资料与云端待办。",
   robots: { index: false, follow: false },
   icons: {
