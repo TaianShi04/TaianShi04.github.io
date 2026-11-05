@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "lse-hro",
+    "school": "LSE",
+    "name": "MSc Human Resources and Organisations",
+    "country": "英国",
+    "degree": "Master",
+    "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+    "applyUrl": "https://evision.lse.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?code1=ONLINEAPP&code2=2027&process=siw_ipp_app",
+    "applyLabel": "2027网申／返回申请",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "二等一（2:1）荣誉学士或同等学历；不限专业。",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+        "english": "Upper second-class honours (2:1) degree or equivalent in any discipline.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "工作经验／标化考试",
+        "english": "Work experience: not required. GRE / GMAT: not required; a strong score may strengthen the application.",
+        "englishMode": "facts",
+        "text": "无需工作经验；GRE／GMAT不强制，较高成绩可增强申请。",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations"
+      },
+      {
+        "label": "英语",
+        "text": "Standard：IELTS 7.0，单项6.5；新TOEFL总分5.5，R/L/W 5.0、S 4.5；旧TOEFL100，R23/L22/W24/S22。可先申请，录取后满足语言条件。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements",
+        "english": "Standard | IELTS: overall 7.0; each band 6.5. TOEFL (1–6): overall 5.5; R 5 / L 5 / W 5 / S 4.5. TOEFL (0–120): overall 100; R 23 / L 22 / W 24 / S 22. English evidence: may follow the application, as an offer condition.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "文书预期为1,000—1,500词。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents/Statement-of-academic-purpose",
+        "english": "We expect statement(s) to be between 1,000 - 1,500 words.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "文书内容与格式",
+        "english": "Topics: Academic Motivations; Suitability; Purpose and Objectives. Each page: applicant name + programme title. Two programme choices: separate statements.",
+        "englishMode": "facts",
+        "text": "内容：学术动机、适合该项目的准备、学习目的与目标。每页写姓名和项目名；两个志愿分别准备文书。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents/Statement-of-academic-purpose"
+      },
+      {
+        "label": "推荐信",
+        "text": "2封；项目页列学术推荐。填写推荐人后系统发链接，老师在线答题并上传；两封收齐才进入审核。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents",
+        "english": "References: 2 academic referees. Submission: referee portal questionnaire + uploaded letter. Processing: after both references arrive.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "CV、各段高等教育成绩单、学位证明（适用时）、英文翻译、语言成绩（已有时）；上传文件每份≤2MB。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents",
+        "english": "Documents: CV; university transcripts; qualification evidence where applicable; accredited English translations; available English scores. Maximum upload size: 2 MB per document.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "£95。一次网申最多填两个有顺序的志愿；不要为第二个项目另开一份申请。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents",
+        "english": "Application assessment fee: £95. Programme choices: up to 2, ranked, within one application per cycle.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "学费",
+        "text": "2027/28海外生：OB £34,200；HRM／IER £35,200。",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+        "english": "2027/28 overseas tuition: OB £34,200; HRM / IER £35,200.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "rolling",
+        "label": "滚动录取，满位即止",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations"
+      },
+      {
+        "date": "2027-04-22",
+        "label": "需要经济状况评估的资助申请节点；须已有录取并提交资助表",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations"
+      }
+    ],
+    "notes": [
+      "OB组织行为代码N6U9；HRM N6U8；IER N6U7。按已选方向申请，录取后换方向不保证。",
+      "两个LSE项目共用一次申请，分别上传针对性文书；先确认第一、第二志愿顺序。",
+      "在中国完成英国大学学位不自动获英语豁免；成绩须在2027年10月1日时未满两年。",
+      "滚动录取，满位关闭；4月22日是资助节点，不是课程固定截止日。"
+    ],
+    "sources": [
+      {
+        "label": "项目官网",
+        "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations"
+      },
+      {
+        "label": "网申规则／志愿顺序",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply"
+      },
+      {
+        "label": "提交后Applicant Portal",
+        "url": "https://portal.lse.ac.uk/admissions/s/track-my-graduate-application"
+      },
+      {
+        "label": "文书指导",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents/Statement-of-academic-purpose"
+      },
+      {
+        "label": "材料与推荐信",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents"
+      },
+      {
+        "label": "英语要求",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "lse-misdi",
+    "school": "LSE",
+    "name": "MSc Management of Information Systems and Digital Innovation",
+    "country": "英国",
+    "degree": "Master",
+    "officialUrl": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation",
+    "applyUrl": "https://evision.lse.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?code1=ONLINEAPP&code2=2027&process=siw_ipp_app",
+    "applyLabel": "2027网申／返回申请",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "二等一（2:1）荣誉学士或同等学历；不限专业。",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation",
+        "english": "Upper second-class honours degree (2:1) or equivalent in any discipline.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "工作经验／标化考试",
+        "english": "Work experience: not required. GRE / GMAT: not required; a strong score may strengthen the application.",
+        "englishMode": "facts",
+        "text": "无需工作经验；GRE／GMAT不强制，较高成绩可增强申请。",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation"
+      },
+      {
+        "label": "英语",
+        "text": "Standard：IELTS 7.0，单项6.5；新TOEFL总分5.5，R/L/W 5.0、S 4.5；旧TOEFL100，R23/L22/W24/S22。可先申请，录取后满足语言条件。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements",
+        "english": "Standard | IELTS: overall 7.0; each band 6.5. TOEFL (1–6): overall 5.5; R 5 / L 5 / W 5 / S 4.5. TOEFL (0–120): overall 100; R 23 / L 22 / W 24 / S 22. English evidence: may follow the application, as an offer condition.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "文书预期为1,000—1,500词。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents/Statement-of-academic-purpose",
+        "english": "We expect statement(s) to be between 1,000 - 1,500 words.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "文书内容与格式",
+        "english": "Topics: Academic Motivations; Suitability; Purpose and Objectives. Each page: applicant name + programme title. Two programme choices: separate statements.",
+        "englishMode": "facts",
+        "text": "内容：学术动机、适合该项目的准备、学习目的与目标。每页写姓名和项目名；两个志愿分别准备文书。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents/Statement-of-academic-purpose"
+      },
+      {
+        "label": "推荐信",
+        "text": "2封；项目页列学术推荐。填写推荐人后系统发链接，老师在线答题并上传；两封收齐才进入审核。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents",
+        "english": "References: 2 academic referees. Submission: referee portal questionnaire + uploaded letter. Processing: after both references arrive.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "CV、各段高等教育成绩单、学位证明（适用时）、英文翻译、语言成绩（已有时）；上传文件每份≤2MB。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents",
+        "english": "Documents: CV; university transcripts; qualification evidence where applicable; accredited English translations; available English scores. Maximum upload size: 2 MB per document.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "£95。一次网申最多填两个有顺序的志愿；不要为第二个项目另开一份申请。",
+        "source": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents",
+        "english": "Application assessment fee: £95. Programme choices: up to 2, ranked, within one application per cycle.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "学费",
+        "text": "2027/28学费 £41,900。",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation",
+        "english": "2027/28 tuition: £41,900 (Home and Overseas).",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "rolling",
+        "label": "滚动录取，满位即止",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation"
+      },
+      {
+        "date": "2027-04-22",
+        "label": "需要经济状况评估的资助申请节点；须已有录取并提交资助表",
+        "source": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation"
+      }
+    ],
+    "notes": [
+      "两个LSE项目共用一次申请，分别上传针对性文书；先确认第一、第二志愿顺序。",
+      "在中国完成英国大学学位不自动获英语豁免；成绩须在2027年10月1日时未满两年。",
+      "滚动录取，满位关闭；4月22日是资助节点，不是课程固定截止日。"
+    ],
+    "sources": [
+      {
+        "label": "项目官网",
+        "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation"
+      },
+      {
+        "label": "网申规则／志愿顺序",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply"
+      },
+      {
+        "label": "提交后Applicant Portal",
+        "url": "https://portal.lse.ac.uk/admissions/s/track-my-graduate-application"
+      },
+      {
+        "label": "文书指导",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents/Statement-of-academic-purpose"
+      },
+      {
+        "label": "材料与推荐信",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Supporting-documents"
+      },
+      {
+        "label": "英语要求",
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "monash-integrated",
+    "school": "Monash University",
+    "name": "Integrated PhD — Management (MCom B6023 → PhD)",
+    "country": "澳大利亚",
+    "degree": "PhD",
+    "officialUrl": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated",
+    "applyUrl": "https://myapp.monash.edu/admissions/s/login/?ec=302&inst=Oa&startURL=%2Fadmissions",
+    "applyLabel": "My.App申请／登录",
+    "requirements": [
+      {
+        "label": "7月入学资格：先确认",
+        "text": "第二学期入学仅考虑符合Entry level 2要求的申请者。",
+        "source": "https://www.monash.edu/study/courses/find-a-course/commerce-b6023?international=true",
+        "english": "For Semester 2 commencement, only those that meet entry level 2 requirements will be considered.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "Entry level 2",
+        "english": "Qualification: relevant Australian bachelor honours degree or equivalent. Grade average: at least 75%, or a faculty-approved equivalent qualification. UK 2:1 equivalence: requires individual confirmation.",
+        "englishMode": "facts",
+        "text": "相关澳洲荣誉学士或同等学历，均分至少75%，或院系认可的同等资格；英国2:1等效性须个案确认。",
+        "source": "https://www.monash.edu/study/courses/find-a-course/commerce-b6023?international=true"
+      },
+      {
+        "label": "申请路线",
+        "text": "选择Graduate Coursework → B6023 Master of Commerce → Management；收到邀请后才能申请PhD 0029。",
+        "source": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated",
+        "english": "Study type: Graduate Coursework. First application: B6023 — Master of Commerce; specialisation: Management. PhD 0029 application: only after an Invitation to Apply.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "SOP＋RP",
+        "text": "Statement of Purpose最多500词。",
+        "source": "https://www.monash.edu/__data/assets/pdf_file/0003/4316250/MCom-application-Supplementary-Form_May-2026.pdf",
+        "english": "Statement of Purpose (max. 500 words)",
+        "englishMode": "quote"
+      },
+      {
+        "label": "Research Proposal",
+        "english": "Research Proposal: maximum 1 page. Content: research interests, objectives, anticipated findings and contributions.",
+        "englishMode": "facts",
+        "text": "Research Proposal最多1页，包含研究兴趣、目标、预期发现与贡献。",
+        "source": "https://www.monash.edu/__data/assets/pdf_file/0003/4316250/MCom-application-Supplementary-Form_May-2026.pdf"
+      },
+      {
+        "label": "其他材料",
+        "text": "全部学历成绩单／学位证、CV、英语证明、护照／身份信息及MCom Supplementary Form；GRE／GMAT可选。",
+        "source": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated",
+        "english": "Documents: all qualification transcripts and testamurs; CV; English evidence; citizenship/passport; MCom supplementary form. GRE / GMAT: optional.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "MCom Level A：IELTS6.5，单项6.0；新TOEFL总分4，R3.5/L3/W4.5/S3.5；旧TOEFL79，R13/L12/W21/S18。英语授课学历豁免需审核。",
+        "source": "https://www.monash.edu/study/courses/find-a-course/commerce-b6023?international=true",
+        "english": "Level A | IELTS: overall 6.5; each band 6.0. TOEFL (1–6): overall 4; R 3.5 / L 3 / W 4.5 / S 3.5. TOEFL (0–120): overall 79; R 13 / L 12 / W 21 / S 18. English-medium study: subject to exemption assessment.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "当前MCom流程及补充表未明确推荐信数量／提交方法；须以My.App字段或招生办公室答复核实，不等同于确认免推荐信。",
+        "source": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated",
+        "english": "Not confirmed: reference count and submission method for the MCom stage. Check My.App or the admissions office; absence from the public checklist is not an exemption.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "面试",
+        "text": "入围者参加研究主任组织的面试。",
+        "source": "https://www.monash.edu/study/courses/find-a-course/commerce-b6023?international=true",
+        "english": "Interview: shortlisted applicants. Panel: constituted by the Research Director.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "学费标价",
+        "text": "2027 MCom国际生A$43,140／48学分（标准一年课程量）。",
+        "source": "https://www.monash.edu/study/courses/find-a-course/commerce-b6023?international=true",
+        "english": "2027 international MCom tuition: A$43,140 per 48 credit points.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "Integrated资助",
+        "text": "Master of Commerce全额奖学金，以及有条件的PhD奖学金。",
+        "source": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated",
+        "english": "A full scholarship for the Master of Commerce degree and a conditional scholarship for the PhD.",
+        "englishMode": "quote"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "label": "7月入学轮次开放（官网年度规则）",
+        "source": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated"
+      },
+      {
+        "date": "2027-02-01",
+        "label": "7月入学轮次截止23:59 AEDT（北京20:59；按年度规则）",
+        "source": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated"
+      }
+    ],
+    "notes": [
+      "你的内部计划：11月27日定稿、11月30日核查，12月1日开放后提交；先确认Entry level 2资格。",
+      "此阶段官网明确无需联系潜在导师，套磁不是提交前置条件。",
+      "补充表要求英文材料并合并为单个PDF上传；若网申提供独立字段，按实际字段指引。",
+      "班级排名在申请流程页标为可选，补充表清单未标可选；能提供则附上，无法提供时向招生确认。"
+    ],
+    "sources": [
+      {
+        "label": "申请步骤与日期",
+        "url": "https://www.monash.edu/business/research/phd-programs/how-to-apply/integrated"
+      },
+      {
+        "label": "国际生课程与资格",
+        "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b6023?international=true"
+      },
+      {
+        "label": "补充表／SOP与RP字数",
+        "url": "https://www.monash.edu/__data/assets/pdf_file/0003/4316250/MCom-application-Supplementary-Form_May-2026.pdf"
+      },
+      {
+        "label": "英语及豁免规则",
+        "url": "https://www.monash.edu/admissions/entry-requirements/english-language"
+      },
+      {
+        "label": "联系招生",
+        "url": "mailto:Buseco-research.degrees@monash.edu"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "nus-hcma",
+    "school": "NUS 新加坡国立大学",
+    "name": "MSc Human Capital Management and Analytics",
+    "country": "新加坡",
+    "degree": "Master",
+    "officialUrl": "https://mschcma.nus.edu.sg/admissions/application-process/",
+    "applyUrl": "https://gradapp.nus.edu.sg/account/login?r=%2Fapply",
+    "applyLabel": "申请人登录 / 继续申请",
+    "requirements": [
+      {
+        "label": "学历与经历",
+        "text": "良好本科学位，不限专业；无需工作经验；GMAT/GRE可选。",
+        "source": "https://mschcma.nus.edu.sg/admissions/admission-requirements/",
+        "english": "Undergraduate degree: good academic standing; discipline: any. Work experience: not required. GMAT/GRE: optional.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "需提交时：新版TOEFL至少5.0；IELTS至少7.0。英语授课背景按院校审核。",
+        "source": "https://mschcma.nus.edu.sg/admissions/admission-requirements/",
+        "english": "Applicability: “If English is not the native language or medium of prior undergraduate instruction.” TOEFL iBT: ≥5.0; IELTS overall: ≥7.0.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "Letter of Motivation，不超过500词。",
+        "source": "https://mschcma.nus.edu.sg/admissions/application-checklist/",
+        "english": "Letter of Motivation: ≤500 words.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "官网明确：不需要推荐信，也不需要推荐人信息。",
+        "source": "https://mschcma.nus.edu.sg/admissions/application-checklist/",
+        "english": "Letters of recommendation, reference letters and referee details are not required to be submitted.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "材料",
+        "text": "CV、护照、成绩单及学位证明、资金证明/说明、适用的语言成绩；PDF合计不超过10MB。",
+        "source": "https://mschcma.nus.edu.sg/admissions/application-checklist/",
+        "english": "Resume; passport identification page; certified academic transcripts and degree certificate; financial evidence or an explanation of funding arrangements; applicable English test report. Format: PDF; total uploads ≤10MB. Non-English documents: certified English translations. TOEFL recipient code: 0677.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "费用",
+        "text": "申请费S$100；2027学费S$77,608（含9% GST）。",
+        "source": "https://mschcma.nus.edu.sg/fees-finances/programme-fees/",
+        "english": "2027/28 tuition: S$77,608 including 9% GST. Application fee: S$100.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-15",
+        "label": "首轮及Study Award考虑节点",
+        "source": "https://mschcma.nus.edu.sg/admissions/application-process/"
+      },
+      {
+        "date": "2027-02-15",
+        "label": "最终申请截止",
+        "source": "https://mschcma.nus.edu.sg/admissions/application-process/"
+      }
+    ],
+    "notes": [
+      "须本人提交申请并付费；短名单可能面试。",
+      "旧制托福适用门槛在本轮页面未列，不能直接把新版5.0当作旧分数换算。"
+    ],
+    "sources": [
+      {
+        "label": "招生要求",
+        "url": "https://mschcma.nus.edu.sg/admissions/admission-requirements/"
+      },
+      {
+        "label": "材料清单",
+        "url": "https://mschcma.nus.edu.sg/admissions/application-checklist/"
+      },
+      {
+        "label": "学费",
+        "url": "https://mschcma.nus.edu.sg/fees-finances/programme-fees/"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "ntu-maies",
+    "school": "NTU 南洋理工大学",
+    "name": "MA AI Ethics and Society",
+    "country": "新加坡",
+    "degree": "Master",
+    "officialUrl": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+    "applyUrl": "https://apps.ntu.edu.sg/COAL/",
+    "applyLabel": "申请人登录 / 继续申请",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "良好二等一本科或同等；不限学科，无需计算机或哲学背景。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+        "english": "Bachelor’s degree: good Honours, Second Class Upper or equivalent GPA; recognised university; any discipline. Prior computer science/philosophy training: not required.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "非英语授课本科：新版TOEFL5.0 / IELTS7.0；英语授课可提供官方MOI；不接受线上考试。成绩在申请时须不超过2年。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+        "english": "Non-English-medium undergraduate degree: TOEFL iBT ≥5/6 or IELTS ≥7.0. English-medium degree: official MOI evidence covering all courses. Online test results: not accepted. Test age at application: ≤2 years.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "Personal Statement少于1000词。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+        "english": "Personal Statement, in less than 1000 words",
+        "englishMode": "quote"
+      },
+      {
+        "label": "文书内容",
+        "text": "解释过往学术和职业经历如何为本项目做准备，以及项目如何帮助未来职业目标。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+        "english": "Statement content: prior academic/professional preparation; connection between programme learning, existing achievements and future career goals.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "2封；推荐人用机构邮箱直接发soh-maies@ntu.edu.sg，附机构抬头及logo，主题Reference letter for申请人姓名；不接受免费邮箱。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+        "english": "References: 2. Referees email soh-maies@ntu.edu.sg directly from institutional accounts. Organisation letterhead/logo required; free-email accounts not accepted. Subject: Reference letter for Name of applicant.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "CV不超过3页；护照、学历和各大学成绩单、语言或MOI；非英文文件附官方翻译。如适用，另附预计毕业、居留及专业资格证明。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission",
+        "english": "CV: ≤3 pages. Passport; degree certificates and transcripts from every university; English results or MOI; official translations if needed. Expected-graduation certificate and immigration/professional documents: where applicable.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "费用",
+        "text": "2027学费S$47,612含GST。申请费表列S$50含GST；招生页又注明另计GST，付款金额以系统为准。",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/tuition-fees",
+        "english": "AY2027 tuition: S$47,612 including GST. Application fee: S$50; fee table includes GST, while admissions page specifies prevailing GST. Confirm at payment.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-02-01",
+        "label": "2027年8月入学最终截止",
+        "source": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission"
+      }
+    ],
+    "notes": [
+      "可能面试；提交表格、付费、收到全部支持材料后才视为完整。"
+    ],
+    "sources": [
+      {
+        "label": "招生与清单",
+        "url": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/admission"
+      },
+      {
+        "label": "学费",
+        "url": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/tuition-fees"
+      },
+      {
+        "label": "奖学金",
+        "url": "https://www.ntu.edu.sg/soh/admissions/pgc/maies/scholarship"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "ntu-eai",
+    "school": "NTU 南洋理工大学",
+    "name": "MSc Enterprise Artificial Intelligence",
+    "country": "新加坡",
+    "degree": "Master",
+    "officialUrl": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme",
+    "applyUrl": "https://apps.ntu.edu.sg/COAL/",
+    "applyLabel": "申请人登录 / 继续申请",
+    "requirements": [
+      {
+        "label": "学历与经历",
+        "text": "荣誉学士或同等，不限学科；全日制无需工作经验；无需编程背景；GMAT/GRE非必需。",
+        "source": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme",
+        "english": "Bachelor’s degree: Honours or equivalent; recognised institution; any discipline. Full-time work experience: not required. Coding prerequisite: none. GMAT/GRE: optional.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "TOEFL旧制90 / 新制4.5；IELTS6.0；豁免要求包含英语国家全英语授课学位，不宜仅凭MOI假定豁免。",
+        "source": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme",
+        "english": "TOEFL iBT: ≥90 or ≥4.5; IELTS: ≥6.0. English waiver: first degree fully English-taught in an English-speaking country, subject to review. Results: 2-year validity, valid at the application-period opening.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书与推荐信",
+        "text": "官网提及可用PS说明跨学科背景，但未明确统一字数及是否必交；推荐信数量未明确，需核对网申字段。",
+        "source": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme",
+        "english": "Personal statement: mentioned for explaining background and motivation. Mandatory status, word limit and reference count: not specified on the public page; check the application portal.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "护照、学位证及成绩单、适用的语言成绩，非英文文件附官方翻译；另核对项目网申清单。",
+        "source": "https://www.ntu.edu.sg/admissions/graduate/cwadmissionguide/apply-now",
+        "english": "International applicants: passport; bachelor’s certificate and transcripts, with official English translations where needed; applicable test scores; relevant professional/supporting documents. Check the programme-specific portal checklist.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "费用",
+        "text": "2027学费S$60,085含GST；申请费S$50。",
+        "source": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme",
+        "english": "AY2027 tuition: S$60,085 including GST. Application fee: S$50.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-30",
+        "label": "GATE奖学金考虑节点",
+        "source": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme"
+      },
+      {
+        "date": "2027-03-31",
+        "label": "最终申请截止",
+        "source": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme"
+      }
+    ],
+    "notes": [
+      "GATE开放所有国籍，最高S$10,000；符合条件者自动考虑，无需单独申请。",
+      "提交后网申表不能自行修改，提交前核对工作经历。"
+    ],
+    "sources": [
+      {
+        "label": "项目与费用",
+        "url": "https://www.ntu.edu.sg/pace/for-individuals/ntu-interdisciplinary-graduate-programme/Master-of-Science-In-Enterprise-Artificial-Intelligence-Programme"
+      },
+      {
+        "label": "网申指南",
+        "url": "https://www.ntu.edu.sg/admissions/graduate/cwadmissionguide/apply-now"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "hku-aies",
+    "school": "HKU 香港大学",
+    "name": "MA AI, Ethics and Society",
+    "country": "中国香港",
+    "degree": "Master",
+    "officialUrl": "https://maaies.arts.hku.hk/admissions",
+    "applyUrl": "https://sweb.hku.hk/tola/servlet/CreateUserScreen/loginForm",
+    "applyLabel": "申请人登录 / 继续申请",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "良好本科；哲学专业或其他专业并有AI、伦理与社会相关学习经历。",
+        "source": "https://maaies.arts.hku.hk/admissions",
+        "english": "Good bachelor’s degree/equivalent. Major: philosophy, or another subject with prior study relevant to AI, Ethics and Society. Qualifying examination: if required.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "TOEFL旧制总分80且写作25；新版总分4.5且写作5.0。IELTS7.0且单项≥5.5。成绩须在入学年9月1日前两年内。",
+        "source": "https://maaies.arts.hku.hk/admissions",
+        "english": "If English evidence is required: TOEFL before 21 January 2026 ≥80 overall, Writing ≥25; from that date ≥4.5 overall, Writing ≥5. IELTS ≥7 overall, each band ≥5.5. Test date: within 2 years before 1 September of entry year. Exemptions: individual review.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书与推荐信",
+        "text": "PS和推荐报告均非必需，可自愿补充。",
+        "source": "https://maaies.arts.hku.hk/faq",
+        "english": "No, they are not required, but you can upload them if you think they will help your application.",
+        "englishMode": "quote",
+        "englishContext": "FAQ: Are personal statements and reference reports required?"
+      },
+      {
+        "label": "材料",
+        "text": "学历、成绩、适用语言成绩及项目清单要求的支持文件；托福官方送分代码9671。",
+        "source": "https://portal.hku.hk/tpg-admissions/applying/application-procedures",
+        "english": "Degree certificates, transcripts, applicable English report and programme-specific supporting documents. TOEFL recipient code: 9671. Official English translations for non-English documents.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "费用",
+        "text": "申请费HK$780；学费HK$312,000。",
+        "source": "https://maaies.arts.hku.hk/admissions",
+        "english": "Application fee: HK$780. Composition fee: HK$312,000.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-01-22",
+        "label": "首轮，香港时间中午12:00",
+        "source": "https://maaies.arts.hku.hk/admissions"
+      },
+      {
+        "date": "2027-04-30",
+        "label": "第二轮，香港时间中午12:00",
+        "source": "https://maaies.arts.hku.hk/admissions"
+      },
+      {
+        "date": "2027-06-30",
+        "label": "第三轮，香港时间中午12:00",
+        "source": "https://maaies.arts.hku.hk/admissions"
+      }
+    ],
+    "notes": [
+      "用户计划：先写文书，12月12日参加托福考试；出分并确认达标后再完成申请。",
+      "重要：创建申请账户起4周内或课程截止前（取更早）完成申请和材料；不要过早建账户后搁置。",
+      "入学奖学金自动考虑，金额为学费10%—100%，按学术及面试表现评定。"
+    ],
+    "sources": [
+      {
+        "label": "招生要求",
+        "url": "https://maaies.arts.hku.hk/admissions"
+      },
+      {
+        "label": "文书与推荐信FAQ",
+        "url": "https://maaies.arts.hku.hk/faq"
+      },
+      {
+        "label": "申请程序",
+        "url": "https://portal.hku.hk/tpg-admissions/applying/application-procedures"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "hku-ppa",
+    "school": "HKU 香港大学",
+    "name": "MSocSc Population and Policy Analysis",
+    "country": "中国香港",
+    "degree": "Master",
+    "officialUrl": "https://www.socsc.hku.hk/mpoppa/",
+    "applyUrl": "https://sweb.hku.hk/tola/servlet/CreateUserScreen/loginForm",
+    "applyLabel": "申请人登录 / 继续申请",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "本科或同等；偏好社会科学、统计、数学、计算机等，需展示量化方法基础；其他背景可凭动机和学习计划考虑。",
+        "source": "https://www.socsc.hku.hk/mpoppa/admission-requirements/",
+        "english": "Bachelor’s degree/equivalent. Preferred fields: social sciences, statistics, mathematics, computer science or related areas; quantitative-methods preparation expected. Limited formal training: motivation and a clear study plan may support consideration; relevant professional experience may also count.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "需提交时：TOEFL旧制80 / 新制4.5；IELTS6.0且单项5.5。英语授课与考试学历可交官方证明。考试须在入学年9月1日前2年内。",
+        "source": "https://portal.hku.hk/tpg-admissions/applying/admission-requirements",
+        "english": "If English evidence is required: TOEFL before 21 January 2026 ≥80; from that date ≥4.5. IELTS overall ≥6, each band ≥5.5. English teaching/examination: official proof. Tests: within 2 years before 1 September of entry year.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书与推荐信",
+        "text": "公开项目页未明确独立PS、字数及推荐信数量；必须在网申及项目支持文件清单核对。",
+        "source": "https://www.socsc.hku.hk/mpoppa/admission-requirements/",
+        "english": "Separate personal statement, word limit and reference count: not specified on the public page; check the application portal.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "学位、成绩单、适用语言成绩或MOI，另依项目清单；内地学历按港大要求提供适用学信网验证。",
+        "source": "https://portal.hku.hk/tpg-admissions/applying/application-procedures",
+        "english": "Degree certificates, transcripts, applicable English evidence and programme-specific documents. Mainland-China qualifications: relevant CHSI qualification/degree verification reports. Non-English documents: certified English translations.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "学费",
+        "text": "HK$250,000；全日制1年。",
+        "source": "https://www.socsc.hku.hk/mpoppa/",
+        "english": "Tuition: HK$250,000. Full-time duration: 1 year.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-30",
+        "label": "第一轮，香港时间中午12:00",
+        "source": "https://www.socsc.hku.hk/mpoppa/"
+      },
+      {
+        "date": "2027-01-11",
+        "label": "第二轮，香港时间中午12:00",
+        "source": "https://www.socsc.hku.hk/mpoppa/"
+      },
+      {
+        "date": "2027-03-01",
+        "label": "第三轮，香港时间中午12:00",
+        "source": "https://www.socsc.hku.hk/mpoppa/"
+      }
+    ],
+    "notes": [
+      "用户内部提交目标11月18日；创建账户后4周内或截止前完成（取更早）。"
+    ],
+    "sources": [
+      {
+        "label": "项目首页与DDL",
+        "url": "https://www.socsc.hku.hk/mpoppa/"
+      },
+      {
+        "label": "项目要求",
+        "url": "https://www.socsc.hku.hk/mpoppa/admission-requirements/"
+      },
+      {
+        "label": "港大英语要求",
+        "url": "https://portal.hku.hk/tpg-admissions/applying/admission-requirements"
+      },
+      {
+        "label": "申请程序",
+        "url": "https://portal.hku.hk/tpg-admissions/applying/application-procedures"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "cuhk-istm",
+    "school": "CUHK 香港中文大学",
+    "name": "MSc Information Science and Technology Management",
+    "country": "中国香港",
+    "degree": "Master",
+    "officialUrl": "https://masters.bschool.cuhk.edu.hk/programmes/mscistm/",
+    "applyUrl": "https://apply.bschool.cuhk.edu.hk/",
+    "applyLabel": "申请人登录 / 继续申请",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "二等荣誉本科或平均B，或同等专业资格；GMAT/GRE非必需。",
+        "source": "https://masters.bschool.cuhk.edu.hk/programmes/mscistm/",
+        "english": "Bachelor’s degree: Second Class honours or average grade B; recognised university; equivalent professional qualifications also eligible. GMAT/GRE: optional; strong scores may strengthen the application.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "英语授课学位可作为满足英语条件的途径；考试途径包括TOEFL79/120或4.5/6、IELTS Academic6.5、GMAT语文21或Focus语文78；托福/雅思有效期2年，托福送分0812。",
+        "source": "https://masters.bschool.cuhk.edu.hk/admission-requirements/",
+        "english": "English-medium degree: eligible English-evidence route. Test route: TOEFL ≥79/120 or ≥4.5/6, IELTS Academic ≥6.5; GMAT Verbal ≥21 or Focus Verbal ≥78 also listed. TOEFL/IELTS validity: 2 years. TOEFL recipient code: 0812.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "提交Personal Statement和CV；公开页面未规定PS字数，按网申题目。",
+        "source": "https://masters.bschool.cuhk.edu.hk/apply/",
+        "english": "Personal statement and CV. Statement word limit: not specified on the public page; check the application portal.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "2位推荐人，由申请系统通知提交推荐。",
+        "source": "https://masters.bschool.cuhk.edu.hk/apply/",
+        "english": "Referees: 2. Submission: recommendations requested through the Postgraduate Programmes Application Portal.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "身份证明、成绩单、学历证明、语言成绩等；单份上传文件≤2MB。",
+        "source": "https://masters.bschool.cuhk.edu.hk/apply/",
+        "english": "Identity documents; academic transcripts and certificates; other documents requested in the application portal. Maximum size: 2MB per supporting file. Complete supporting materials required before assessment.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "费用",
+        "text": "2027/28学费HK$340,000（页面另注明待大学批准）。",
+        "source": "https://masters.bschool.cuhk.edu.hk/programmes/mscistm/",
+        "english": "2027/28 tuition: HK$340,000; subject to University approval.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "HK$500，费用可能调整。",
+        "source": "https://masters.bschool.cuhk.edu.hk/apply/",
+        "english": "Application fee: HK$500; non-refundable; subject to adjustment.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-03-31",
+        "label": "正常轮最终截止；滚动录取可提前满位",
+        "source": "https://masters.bschool.cuhk.edu.hk/programmes/mscistm/"
+      }
+    ],
+    "notes": [
+      "入学奖学金最高HK$100,000，自动考虑；尽早申请。",
+      "用户内部提交目标11月22日。"
+    ],
+    "sources": [
+      {
+        "label": "项目与学费",
+        "url": "https://masters.bschool.cuhk.edu.hk/programmes/mscistm/"
+      },
+      {
+        "label": "材料及推荐信",
+        "url": "https://masters.bschool.cuhk.edu.hk/apply/"
+      },
+      {
+        "label": "英语要求",
+        "url": "https://masters.bschool.cuhk.edu.hk/admission-requirements/"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "cityu-aib",
+    "school": "CityU 香港城市大学",
+    "name": "MSc Artificial Intelligence in Business",
+    "country": "中国香港",
+    "degree": "Master",
+    "officialUrl": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+    "applyUrl": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/apply-now",
+    "applyLabel": "官方申请入口（内含登录）",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "认可本科；需中等程度IT/IS或商科知识，可通过本科课程或相关经验体现。",
+        "source": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+        "english": "Recognised bachelor’s degree/equivalent. Intermediate IT/IS or business knowledge: relevant undergraduate courses or work experience.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "非英语授课学历：TOEFL旧制79/新制4、IELTS6或CET6 450，亦可考虑同等资格。IELTS6/TOEFL4须英语面试；托福报告可比总分≥79可能豁免。",
+        "source": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+        "english": "Non-English-medium qualification: TOEFL before 21 January 2026 ≥79; from that date ≥4. IELTS overall ≥6.0; CET-6 ≥450; equivalent qualifications also considered. IELTS 6.0 / TOEFL 4: English interview required; TOEFL comparable overall ≥79 may qualify for exemption.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "语言限制",
+        "text": "不接受TOEFL Home Edition/MyBest及IELTS Online/Indicator/One Skill Retake；托福送分3401。雅思电子送分至City University of Hong Kong - Graduate School；考试须在申请期开始前2年内。",
+        "source": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+        "english": "Excluded: TOEFL Home Edition/MyBest; IELTS Indicator/One Skill Retake/Online. TOEFL recipient: 3401. IELTS delivery: City University of Hong Kong - Graduate School. Test date: within 2 years before application-period opening.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书与推荐信",
+        "text": "公开项目页面未明确PS及推荐信数量；在P85网申材料清单核对，不能当作无需。",
+        "source": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+        "english": "Personal statement and reference count: not specified on the public page; check the application portal for P85.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "学历、含GPA/均分成绩单、适用语言成绩；内地学历需相应学信网验证。支持文件上传系统，不接受邮件/邮寄提交。",
+        "source": "https://www.cb.cityu.edu.hk/en/masters/admissions/application-procedure",
+        "english": "Degree certificate; transcript including overall GPA/average marks; applicable English report; mainland-degree verification through CSSD where relevant. Supporting documents: upload through the portal; not by email/post.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "费用",
+        "text": "学费HK$393,000。",
+        "source": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business",
+        "english": "Tuition: HK$393,000.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "每个项目HK$600。",
+        "source": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/faq",
+        "english": "Application fee per programme: HK$600.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-05-31",
+        "label": "非本地申请最终截止；滚动录取",
+        "source": "https://www.cityu.edu.hk/pg/programme-search"
+      }
+    ],
+    "notes": [
+      "项目代码P85；用户内部提交目标11月25日。",
+      "申请入口为官方Apply Now页；直接登录地址因403未能核实，进入该页后选择登录。",
+      "优秀申请人奖学金HK$50,000；具体获奖和申请程序以项目通知为准。"
+    ],
+    "sources": [
+      {
+        "label": "项目要求与学费",
+        "url": "https://www.cb.cityu.edu.hk/masters/our-programmes/department-of-information-systems/msc-artificial-intelligence-in-business"
+      },
+      {
+        "label": "申请步骤",
+        "url": "https://www.cb.cityu.edu.hk/en/masters/admissions/application-procedure"
+      },
+      {
+        "label": "官方FAQ",
+        "url": "https://www.cityu.edu.hk/pg/taught-postgraduate-programmes/faq"
+      },
+      {
+        "label": "项目与截止日期",
+        "url": "https://www.cityu.edu.hk/pg/programme-search"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "penn-lst",
+    "school": "University of Pennsylvania",
+    "name": "M.S.Ed. Learning Sciences and Technologies",
+    "country": "美国",
+    "degree": "Master",
+    "officialUrl": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed.",
+    "applyUrl": "https://apply.gse.upenn.edu/apply/",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "入学前取得本科或同等学位；GRE不要求且不审阅。",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed.",
+        "english": "Baccalaureate degree (U.S. regionally accredited institution or equivalent), completed before matriculation. GRE: not required; not considered.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "SOP≤750词；提交当前CV。",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed.",
+        "english": "Statement of Purpose: maximum 750 words. Current résumé/CV required.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "3封；优先由推荐人通过其邮箱在线直接提交。",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed.",
+        "english": "Letters of Recommendation: 3. Online submission directly from the recommender’s email address strongly preferred; submission protocol verified.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "成绩认证",
+        "text": "海外学历／课程需NACES成员机构逐科认证并直送。学校提示可能需8—12周，应立即启动。",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply/international-students",
+        "english": "International coursework: NACES member agency course-by-course evaluation, sent directly by the agency. Processing may take 8–12 weeks.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "非英语母语需TOEFL/IELTS；全英文授课本／硕士学位可适用豁免。公开页未列统一最低分；代码2943。",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply/international-students",
+        "english": "TOEFL iBT / IELTS required for non-native English speakers, unless exempt. Exemption: undergraduate or graduate degree taught solely in English. TOEFL code: 2943. Minimum score: not specified on this public page; check the application portal.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "无申请费。",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed.",
+        "english": "There is no application fee to apply to Penn GSE.",
+        "englishMode": "quote"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-02-01",
+        "label": "优先截止（完整申请获最充分录取／奖学金考虑）；之后有位才滚动",
+        "source": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed."
+      }
+    ],
+    "notes": [
+      "先核实已有学历认证能否用于Penn；只有原始海外成绩单不算完成认证。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply?program=Learning+Sciences+and+Technologies%2C+M.S.Ed."
+      },
+      {
+        "label": "国际生与学历认证",
+        "url": "https://www.gse.upenn.edu/admissions-and-aid/how-to-apply/international-students"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "cornell-milr",
+    "school": "Cornell University",
+    "name": "Master of Industrial and Labor Relations (MILR)",
+    "country": "美国",
+    "degree": "Master",
+    "officialUrl": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+    "applyUrl": "https://www.applyweb.com/forms/CORNELLG",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "认可本科或国际同等学历；不设统一GPA淘汰线；GRE/GMAT不审阅。",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+        "english": "Accredited bachelor’s degree or international equivalent. No GPA cut-off specified. GRE/GMAT: not reviewed.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "Academic SOP＋Personal Statement两份；ASOP通用建议1—2页，最终以网申题目为准。",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+        "english": "Academic Statement of Purpose + Personal Statement. Graduate School ASOP guidance: typically 1–2 pages unless the program specifies otherwise; check portal instructions.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "2封，学术／职业均可；通过网申提交。",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+        "english": "Two letters of recommendation are required. Academic or professional recommendations are accepted.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "材料",
+        "text": "CV、所有就读院校成绩单；录取接受后提交正式成绩单。",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+        "english": "Resume + unofficial transcripts from every college/university attended. Official electronic transcripts required after accepting an offer.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "视频面试",
+        "text": "提交申请后由邮件邀请录制；不要把交表视为材料已齐。",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+        "english": "Recorded online video interview: invitation and instructions emailed after application submission.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "资助",
+        "text": "希望争取资助需Funding Consideration Statement。",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information",
+        "english": "Funding consideration: submit a funding consideration statement.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "官网2026—27暂行：IELTS7；旧TOEFL S22/R20/L15/W20；新制S4/R4/L3.5/W4。页面限定2026—27，2027秋适用性应再确认。",
+        "source": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+        "english": "Published professional-master’s thresholds, labelled 2026–27 only: IELTS Academic ≥7.0; pre-January-2026 TOEFL S22/R20/L15/W20; updated TOEFL S4/R4/L3.5/W4. Confirm applicability to Fall 2027.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-01",
+        "label": "2027秋奖学金考虑截止；页面未列另一最终截止",
+        "source": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information"
+      }
+    ],
+    "notes": [
+      "ApplyWeb入口来自学校官方链接；自动读取受登录跳转限制，可用官网“Apply Now”进入。",
+      "语言分数不是新制总分门槛；须逐项检查。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr/admission-information"
+      },
+      {
+        "label": "语言政策",
+        "url": "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/"
+      },
+      {
+        "label": "ASOP指导",
+        "url": "https://gradschool.cornell.edu/admissions/application-steps/statements-of-purpose/"
+      },
+      {
+        "label": "PS指导",
+        "url": "https://gradschool.cornell.edu/admissions/application-steps/personal-statements/"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "jhu-isai",
+    "school": "Johns Hopkins University",
+    "name": "MS in Information Systems and Artificial Intelligence for Business",
+    "country": "美国",
+    "degree": "Master",
+    "officialUrl": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time",
+    "applyUrl": "https://applygrad.jhu.edu/apply/?sr=8ec815d7-2ffe-4335-8352-b0397f1be949",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "本科；GRE/GMAT可选；工作经验非必需。",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time",
+        "english": "Bachelor’s degree, earned or in progress. GMAT/GRE: optional. Work experience: not required.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "2篇，每篇300—500词；12号字、双倍行距；第2篇从网申题目中选。",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time",
+        "english": "Two required essays, 300–500 words each; 12-point font, double-spaced. Essay 1: required topic; Essay 2: choose from application topics.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "必需1封，最多读2封；优先工作邮箱，推荐人须了解你的学习／工作。",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time",
+        "english": "One recommendation is required. We will read up to two.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "材料",
+        "text": "更新CV（工作起止年月）、成绩单；海外学位需NACES逐科认证。",
+        "source": "https://carey.jhu.edu/admissions/international-applicants",
+        "english": "Current resume/CV with employment months and years; required transcripts; non-U.S. degrees require an official NACES course-by-course evaluation.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "视频面试",
+        "text": "Kira内置网申，截止前完成。",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time",
+        "english": "Kira video interview: required for this full-time MS program; part of the application and must be completed before the deadline.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "偏好最低旧TOEFL100（接受MyBest）／IELTS7；全英文授课学位可申请豁免。新制门槛未在该页明确。",
+        "source": "https://carey.jhu.edu/admissions/international-applicants",
+        "english": "Preferred minimums: TOEFL 100 (MyBest accepted), IELTS 7.0, PTE 70, DET 130. English-only degree instruction may qualify for exemption. Updated 1–6 TOEFL threshold: not specified on this public page; check the application portal.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "US$100，不退。",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time",
+        "english": "Application fee: USD 100, nonrefundable.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-01-13",
+        "label": "第2轮",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time"
+      },
+      {
+        "date": "2027-02-10",
+        "label": "第3轮，国际生强烈建议最迟此轮",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time"
+      },
+      {
+        "date": "2027-03-10",
+        "label": "第4轮，需首次F-1签证的国际生最终轮",
+        "source": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time"
+      }
+    ],
+    "notes": [
+      "同一轮不能同时申请多个Carey专业硕士；递交后仍需检查材料是否齐全。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://carey.jhu.edu/admissions/how-to-apply/ms-full-time"
+      },
+      {
+        "label": "项目官网",
+        "url": "https://carey.jhu.edu/programs/master-science/information-systems-artificial-intelligence"
+      },
+      {
+        "label": "国际生／学历认证",
+        "url": "https://carey.jhu.edu/admissions/international-applicants"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "uiuc-msim",
+    "school": "University of Illinois Urbana-Champaign",
+    "name": "MS in Information Management",
+    "country": "美国",
+    "degree": "Master",
+    "officialUrl": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply",
+    "applyUrl": "https://choose.illinois.edu/apply/",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历",
+        "text": "本科，不限专业。",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply",
+        "english": "While a bachelor's degree is required for admission, your degree can be in any discipline.",
+        "englishMode": "quote"
+      },
+      {
+        "label": "GRE／GMAT",
+        "text": "GRE/GMAT可选；不提交不会处于不利地位。",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply",
+        "english": "GRE/GMAT: optional. Applicants without scores are not disadvantaged in holistic review.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "主文书",
+        "text": "≤1000词，12号Arial、单倍行距；背景准备、目标与项目匹配。",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply",
+        "english": "Personal statement: maximum 1,000 words; 12pt Arial; single-spaced. Address preparation, goals/program fit, and academic interests.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "网申短答",
+        "text": "统一网申另有2道必答Personal Statement，各≤250词；另2道可选。",
+        "source": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+        "english": "Graduate application Personal Statements: Questions 1–2 required; Questions 3–4 optional. Maximum 250 words per answer.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "3封；毕业距入学不足3年者，至少1封来自授课教师；推荐人在线上传。",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply",
+        "english": "Three reference letters. If graduating within three years of intended enrollment: at least one from a faculty member who taught you. Recommenders upload online.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "CV、各校成绩单及必要翻译、学位证（若成绩单未注明授予）。",
+        "source": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+        "english": "Resume/CV; transcripts from all post-secondary institutions, translations where needed, and diploma/degree certificate if the transcript does not record the awarded degree.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "新TOEFL：limited4.0/full5.0；旧79/103；IELTS6.5/7.5。低于full须入学语言测试；不接受MyBest。",
+        "source": "https://www.grad.illinois.edu/admissions/international-applicants",
+        "english": "Limited / full admission: updated TOEFL 4.0 / 5.0; earlier TOEFL 79 / 103; IELTS 6.5 / 7.5. Below full status: English Placement Test required. MyBest not accepted.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "US$90；须在截止前付款，否则提交会撤回。",
+        "source": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application",
+        "english": "Application fee: USD 90. Payment required before program deadline; unpaid application becomes unsubmitted.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-11-17",
+        "label": "早申截止，美国中部时间22:59",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply"
+      },
+      {
+        "date": "2026-12-01",
+        "label": "早申推荐信截止，美国中部时间22:59",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply"
+      },
+      {
+        "date": "2027-01-29",
+        "label": "常规申请截止",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply"
+      },
+      {
+        "date": "2027-02-12",
+        "label": "常规推荐信截止",
+        "source": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply"
+      }
+    ],
+    "notes": [
+      "主文书之外必须安排两道250词短答。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://ischool.illinois.edu/academics/graduate/ms-information-management/apply"
+      },
+      {
+        "label": "统一网申说明",
+        "url": "https://www.grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application"
+      },
+      {
+        "label": "语言要求",
+        "url": "https://www.grad.illinois.edu/admissions/international-applicants"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "osu-mhrm",
+    "school": "The Ohio State University",
+    "name": "Master of Human Resource Management (MHRM)",
+    "country": "美国",
+    "degree": "Master",
+    "officialUrl": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+    "applyUrl": "https://fisherosu.my.site.com/ERx_Forms__Portal_Login?lang=en_US",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "四年本科或同等；不限专业，无必需工作经验／先修课；GRE/GMAT可选。",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+        "english": "Four-year bachelor’s degree or equivalent. All majors welcome. No required post-undergraduate work experience or prerequisite courses. GMAT/GRE optional.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "目标Essay建议≤750词；补充解释Essay可选≤500词。",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+        "english": "Goals essay: recommended maximum 750 words. Optional supplemental essay: recommended maximum 500 words.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐人与推荐信",
+        "text": "填写2名reference；推荐信可选。若提交，推荐人可直邮FCOB-grad_apps@osu.edu并写申请ID。",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+        "english": "Two references required; recommendation letters optional. Recommenders may email FCOB-grad_apps@osu.edu directly, including the application ID.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "CV、所有获得学分院校成绩单；检查网申完整清单。",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+        "english": "Resume; official transcripts from every institution where academic credit was earned. Complete the application-portal checklist.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "视频面试",
+        "text": "必需Kira；开申请收到邀请，建议2周内做完，未完成不审核。",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+        "english": "Kira recorded video assessment required. Invitation follows application start; completion within two weeks recommended. Application review waits for all items, including Kira.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "Fisher页列旧TOEFL79／新4.0，IELTS7；不接受MyBest；正式成绩须到达才审核。",
+        "source": "https://fisher.osu.edu/graduate/international-applicants",
+        "english": "Published minimum recommended scores: TOEFL 79 / updated TOEFL 4.0; IELTS Academic 7.0; DET 120. Official scores required before review. TOEFL MyBest not accepted.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "国际生US$70。",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher",
+        "english": "International application fee: USD 70, nonrefundable.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-11",
+        "label": "资助／奖学金优先1；要求全套材料齐",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher"
+      },
+      {
+        "date": "2027-02-19",
+        "label": "资助／奖学金优先2",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher"
+      },
+      {
+        "date": "2027-05-28",
+        "label": "国际生最终截止",
+        "source": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher"
+      }
+    ],
+    "notes": [
+      "官方AI政策允许构思、语法校对等辅助，要求披露；不允许提交AI生成的申请正文。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://fisher.osu.edu/graduate/mhrm/admissions/applying-fisher"
+      },
+      {
+        "label": "国际生语言要求",
+        "url": "https://fisher.osu.edu/graduate/international-applicants"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "buffalo-phd",
+    "school": "University at Buffalo",
+    "name": "PhD in Management — Organization and Human Resources",
+    "country": "美国",
+    "degree": "PhD",
+    "officialUrl": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html",
+    "applyUrl": "https://ubmgtconnect.buffalo.edu/apply/",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "本科同等学历；学校通用GPA3.0或等效；GRE/GMAT建议但非必需。",
+        "source": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+        "english": "Bachelor’s degree or equivalent. University baseline: GPA 3.0 / B-grade or equivalent. Management PhD: GRE/GMAT recommended, not required.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "SOP约700词，解释读博原因；PDF并写全名。",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html",
+        "english": "Statement of purpose: approximately 700 words; reasons for doctoral study; PDF bearing the full name used in the application.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "写作样本",
+        "text": "另交独立作者英文写作样本≤5页，PDF、全名；不能用SOP代替。",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html",
+        "english": "Separate English writing sample: single author, maximum five pages, PDF with full name and writing-sample designation. Must be distinct from the SOP.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "2封；填写邮箱触发邀请，推荐人直接上传PDF，申请人代传无效。",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html",
+        "english": "Two letters required. Recommenders receive email invitations and upload PDFs directly; applicant-submitted letters are invalid.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "材料",
+        "text": "CV需工作起止年月及最近两段工作电话／邮箱；各就读院校成绩单PDF。",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html",
+        "english": "Resume: employment month/year ranges, telephone and email contacts for the two most recent workplaces. PDF transcripts for all undergraduate/graduate credits.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "学校通用旧TOEFL79／新4.0（接受MyBest）、IELTS6.5；管理PhD页指向此要求。正式成绩直送，审核时在2年内。",
+        "source": "https://www.buffalo.edu/grad/explore/admissions/requirements.html",
+        "english": "University minimums: TOEFL 79 / updated TOEFL 4.0 (MyBest accepted), IELTS 6.5. Scores sent by the testing agency; valid within two years of International Admissions review.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "US$100。",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html",
+        "english": "Application fee: USD 100, nonrefundable.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "国际生补充",
+        "text": "护照照片页PDF；非英文成绩单附正式译文。",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/additional-steps-international-applicants.html",
+        "english": "Passport photo page: PDF. Transcripts not issued in English require official English translations.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2026-12-15",
+        "label": "优先截止",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions.html"
+      },
+      {
+        "date": "2027-01-03",
+        "label": "最终截止，所有材料含推荐信必须齐",
+        "source": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions.html"
+      }
+    ],
+    "notes": [
+      "早交申请通常应30天内补齐，且不得晚于最终截止。",
+      "外部学历认证不能替代原学校成绩单；无需为Buffalo专门做认证。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/application-instructions.html"
+      },
+      {
+        "label": "截止日期",
+        "url": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions.html"
+      },
+      {
+        "label": "国际生材料",
+        "url": "https://management.buffalo.edu/degree-programs/phd-in-management/admissions/additional-steps-international-applicants.html"
+      },
+      {
+        "label": "通用英语要求",
+        "url": "https://www.buffalo.edu/grad/explore/admissions/requirements.html"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "rutgers-phd",
+    "school": "Rutgers University",
+    "name": "PhD in Industrial Relations and Human Resources — Human Resources",
+    "country": "美国",
+    "degree": "PhD",
+    "officialUrl": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+    "applyUrl": "https://rutgers.my.site.com/ApplicantPortal/AppPortalCustom",
+    "applyLabel": "申请／Applicant登录",
+    "requirements": [
+      {
+        "label": "学历与考试",
+        "text": "不要求已有硕士；重视研究经历；GRE/GMAT建议但非必需。",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+        "english": "Terminal master’s degree not required. Research experience/training considered important. GRE/GMAT recommended, not required.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "文书",
+        "text": "PS约500词；明确Human Resources方向、研究问题及具体导师匹配。",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+        "english": "Personal statement: approximately 500 words. Name the Human Resources or Labor, Work, and Society concentration; describe research interests and faculty fit.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "推荐信",
+        "text": "3封，学术联系推荐人权重较高；具体上传邀请以网申为准。",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+        "english": "Three recommendation letters; academic connections/background receive greater weight. Submission workflow: check application-portal instructions.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "写作样本",
+        "text": "可选但强烈建议，尤其毕业论文／研究论文。",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+        "english": "A writing sample is highly recommended (especially a Master's or Honors thesis if completed)",
+        "englishMode": "quote"
+      },
+      {
+        "label": "材料",
+        "text": "CV、各就读院校正式成绩单；项目编号16545。",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+        "english": "Resume; official transcripts from every post-secondary institution. Program number: 16545.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "英语",
+        "text": "中央最低旧TOEFL W22/S23/R21/L17；新W4.5/S4.5/R4/L4；IELTS7。正式成绩直送；豁免按中央规定。",
+        "source": "https://gradstudy.rutgers.edu/information/international-students",
+        "english": "Central minimums: earlier TOEFL W22/S23/R21/L17; updated TOEFL W4.5/S4.5/R4/L4; IELTS overall 7. Official scores sent by testing agency. Exemptions follow central admissions policy.",
+        "englishMode": "facts"
+      },
+      {
+        "label": "申请费",
+        "text": "US$70。",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions",
+        "english": "Application fee: USD 70.",
+        "englishMode": "facts"
+      }
+    ],
+    "deadlines": [
+      {
+        "date": "2027-01-05",
+        "label": "秋季年度截止；官网按每年1月5日列示",
+        "source": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions"
+      }
+    ],
+    "notes": [
+      "旧制口语最低23；先完成文书、核实语言豁免，必要时新托福出分后补送。",
+      "学院页语言有效期写5年，与中央2年（入学起算）冲突；按较严格中央要求准备并询问学院。"
+    ],
+    "sources": [
+      {
+        "label": "申请要求",
+        "url": "https://smlr.rutgers.edu/academic-programs/phd-program/admissions"
+      },
+      {
+        "label": "国际生语言细则",
+        "url": "https://gradstudy.rutgers.edu/information/international-students"
+      }
+    ],
+    "verifiedAt": "2026-11-05"
+  }
+]
