@@ -31,12 +31,14 @@ export function dailyTasks(day:string):Task[]{
  const task=(id:string,title:string,category:Task["category"]):Task=>({id:`day:${day}:${id}`,title,date:day,category});
 
  if(day==="2026-12-12")return [task("test-rest","考试当天：留足出行和休息时间","toefl")];
- const list:Task[]=day>"2026-12-12"?[]:day==="2026-12-11"?[task("light","托福轻复习 1—1.5小时","toefl")]:day<="2026-11-06"?[task("toefl","托福写作／口语保温 1小时","toefl")]:[
- task("writing","托福写作＋修改 60分钟","toefl"),task("speaking","托福口语＋录音复盘 30分钟","toefl"),task("rl","托福阅读／听力＋复盘 60分钟","toefl")];
- if(day>="2026-12-01"&&day<="2026-12-07")list.push(task("extra","托福弱项加练 30—60分钟","toefl"));
- if(day>="2026-12-08"&&day<="2026-12-10")list.push(task("mock","限时模拟与复盘加练 90分钟","toefl"));
  const weekday=new Date(day+"T12:00:00+08:00").getUTCDay();
- if([1,2,4,6].includes(weekday))list.push(task("gym","早上健身 07:30—09:00","gym"));
+ const gymDay=[1,2,4,6].includes(weekday);
+ const lightSunday=weekday===0&&day<="2026-11-30";
+ const list:Task[]=day>"2026-12-12"?[]:day==="2026-12-11"?[task("light","托福轻复习 1—1.5小时","toefl")]:day<="2026-11-06"?[task("toefl","托福写作／口语保温 1小时","toefl")]:[
+ task("writing",`托福写作＋修改 ${lightSunday?30:60}分钟`,"toefl"),task("speaking",`托福口语＋录音复盘 ${lightSunday?15:30}分钟`,"toefl"),task("rl",`托福阅读／听力＋复盘 ${lightSunday?15:gymDay?30:60}分钟`,"toefl")];
+ if(day>="2026-12-01"&&day<="2026-12-07")list.push(task("extra",`托福弱项加练 ${gymDay?"60—90":"30—60"}分钟（替换文书时段）`,"toefl"));
+ if(day>="2026-12-08"&&day<="2026-12-10")list.push(task("mock",`限时模拟与复盘加练 ${gymDay?120:90}分钟（替换文书时段）`,"toefl"));
+ if(gymDay)list.push(task("gym","健身 09:30—10:45（含通勤洗澡至11:30）","gym"));
  if([2,5].includes(weekday)&&day>="2026-11-09"&&day<"2026-12-08")list.push(task("outreach","套磁／教授回复 45分钟","admin"));
  if([1,4].includes(weekday))list.push(task("references","检查推荐信状态，需要时礼貌跟进","admin"));
  return list;
